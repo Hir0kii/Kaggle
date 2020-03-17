@@ -1,4 +1,5 @@
-House Prices: Advanced Regression Techniqueshttps://www.kaggle.com/c/titanic
+# House Prices: Advanced Regression Techniqueshttps://www.kaggle.com/c/titanic
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 記録と疑問点のメモ
 Reviewing some great notebooks.
 ・ Comprehensive data exploration with Python by Pedro Marcelino (https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
