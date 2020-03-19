@@ -8,6 +8,6 @@ Reviewing some great notebooks. \
 ・ A study on Regression applied to the Ames dataset by juliencs \
   (https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset) \
 ・ Regularized Linear Models by Alexandru Papiu \
-  (https://www.kaggle.com/apapiu/regularized-linear-models)
+  (https://www.kaggle.com/apapiu/regularized-linear-models) \
 ・ Stacked Regressions : Top 4% on LeaderBoard by Serigne \
   (https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
